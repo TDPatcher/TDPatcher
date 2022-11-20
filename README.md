@@ -1,7 +1,8 @@
 # TDPatcher
 
-The full dataset and source code will be released when the paper is ready for publishing!
-We provide our in-the-wild evaluation results for further investigation as follow: 
+We have provided the source code and processed data to perform this study. 
+The NiCad evaluation results is now updated, we will discuss details in the paper later! 
+We also provide our in-the-wild evaluation results for further investigation as follow: 
 
 
 Label|TODO-introducting commit|TODO-introduced Method::Lineno|TODO-dropped Method::Lineno
